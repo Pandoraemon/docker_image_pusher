@@ -1,4 +1,5 @@
 kubeflow/spark-operator:v1beta2-1.4.6-3.5.0
+registry.k8s.io/cpa/cluster-proportional-autoscaler:1.8.6
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
